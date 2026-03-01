@@ -4,9 +4,9 @@
 #
 ######################################
 AUDIOROUTER_VERSION = 4478ead1bb8114f41a61603f43a6147af368f8b3
-AUDIOROUTER_SITE = https://github.com/OilCanSteve/audiorouter
+AUDIOROUTER_SITE = https://github.com/OilCanSteve/ocs-audiorouter
 AUDIOROUTER_SITE_METHOD = git
-AUDIOROUTER_BUNDLES = audiorouter.lv2
+AUDIOROUTER_BUNDLES = ocs-audiorouter.lv2
 
 AUDIOROUTER_TARGET_MAKE = $(TARGET_MAKE_ENV) $(TARGET_CONFIGURE_OPTS) $(MAKE) MOD=1 OPTIMIZATIONS="" PREFIX=/usr -C $(@D)/source
 
