@@ -4,4 +4,4 @@
 <https://github.com/OilCanSteve/ocs-audiorouter> a lv2:Plugin ;
     lv2:binary <ocs-audiorouter.so> ;
     rdfs:seeAlso <ocs-audiorouter.ttl> .
-<https://github.com/OilCanSteve/ocs-audiorouter rdfs:seeAlso <modgui.ttl> .
+<https://github.com/OilCanSteve/ocs-audiorouter> rdfs:seeAlso <modgui.ttl> .
