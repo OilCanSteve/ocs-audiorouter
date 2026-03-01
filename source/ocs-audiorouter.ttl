@@ -10,7 +10,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 
 
-<https://github.com/OilCanSteve/audiorouter
+<https://github.com/OilCanSteve/ocs-audiorouter>
 	a lv2:Plugin ;
 	doap:name "OilCan Audiorouter" ;
 	lv2:minorVersion 0 ;

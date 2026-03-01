@@ -9,7 +9,7 @@
 #include "lv2/patch/patch.h"
 #include "lv2/urid/urid.h"
 
-#define AUDIOROUTER_URI "https://github.com/stivb/audiorouter"
+#define AUDIOROUTER_URI "https://github.com/OilCanSteve/ocs-audiorouter"
 
 typedef struct {
   LV2_URID atom_Path;
