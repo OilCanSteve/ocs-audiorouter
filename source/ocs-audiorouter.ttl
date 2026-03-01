@@ -12,10 +12,10 @@
 
 <https://github.com/OilCanSteve/ocs-audiorouter>
 	a lv2:Plugin ;
-	doap:name "OilCan Audiorouter" ;
+	doap:name "ocs-Audiorouter" ;
 	lv2:minorVersion 0 ;
-	lv2:microVersion 7 ;
-	lv2:project <https://github.com/stivb/oilcansteve>;
+	lv2:microVersion 7.1 ;
+	lv2:project <https://github.com/OilCanSteve>;
 	doap:license "GPLv3" ;
 
 	doap:developer [
